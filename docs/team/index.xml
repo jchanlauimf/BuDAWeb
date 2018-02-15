@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on Bottom-Up Default Analysis</title>
-    <link>/team/</link>
+    <link>https://jchanlauimf.github.io/BuDAWeb/team/</link>
     <description>Recent content in Teams on Bottom-Up Default Analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jchanlauimf.github.io/BuDAWeb/team/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>    Jin-Chuan Duan</title>
-      <link>/team/ajinchuan/</link>
+      <link>https://jchanlauimf.github.io/BuDAWeb/team/ajinchuan/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/team/ajinchuan/</guid>
+      <guid>https://jchanlauimf.github.io/BuDAWeb/team/ajinchuan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>   Weimin Miao</title>
-      <link>/team/bweimin/</link>
+      <link>https://jchanlauimf.github.io/BuDAWeb/team/bweimin/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/team/bweimin/</guid>
+      <guid>https://jchanlauimf.github.io/BuDAWeb/team/bweimin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>  Jorge A. Chan-Lau</title>
-      <link>/team/cchanlau/</link>
+      <link>https://jchanlauimf.github.io/BuDAWeb/team/cchanlau/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/team/cchanlau/</guid>
+      <guid>https://jchanlauimf.github.io/BuDAWeb/team/cchanlau/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Wei Sun</title>
-      <link>/team/dweisun/</link>
+      <link>https://jchanlauimf.github.io/BuDAWeb/team/dweisun/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/team/dweisun/</guid>
+      <guid>https://jchanlauimf.github.io/BuDAWeb/team/dweisun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Credit Research Initiative Team</title>
-      <link>/team/drmiteam/</link>
+      <link>https://jchanlauimf.github.io/BuDAWeb/team/drmiteam/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/team/drmiteam/</guid>
+      <guid>https://jchanlauimf.github.io/BuDAWeb/team/drmiteam/</guid>
       <description></description>
     </item>
     

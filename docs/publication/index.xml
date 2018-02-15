@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Bottom-Up Default Analysis</title>
-    <link>/publication/</link>
+    <link>https://jchanlauimf.github.io/BuDAWeb/publication/</link>
     <description>Recent content in Publications on Bottom-Up Default Analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jchanlauimf.github.io/BuDAWeb/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>  BuDA User Guide</title>
-      <link>/publication/a_guide/</link>
+      <link>https://jchanlauimf.github.io/BuDAWeb/publication/a_guide/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/a_guide/</guid>
+      <guid>https://jchanlauimf.github.io/BuDAWeb/publication/a_guide/</guid>
       <description></description>
     </item>
     
     <item>
       <title> NUS-RMI CRI Technical Report</title>
-      <link>/publication/a_technicalmanual/</link>
+      <link>https://jchanlauimf.github.io/BuDAWeb/publication/a_technicalmanual/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/a_technicalmanual/</guid>
+      <guid>https://jchanlauimf.github.io/BuDAWeb/publication/a_technicalmanual/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stress Testing with a Bottom-Up Corporate Default Prediction Model</title>
-      <link>/publication/c_stresstesting/</link>
+      <link>https://jchanlauimf.github.io/BuDAWeb/publication/c_stresstesting/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/c_stresstesting/</guid>
+      <guid>https://jchanlauimf.github.io/BuDAWeb/publication/c_stresstesting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>  Multiperiod Corporate Default Prediction - a Forward Intensity Approach</title>
-      <link>/publication/b_forwardintensity/</link>
+      <link>https://jchanlauimf.github.io/BuDAWeb/publication/b_forwardintensity/</link>
       <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>/publication/b_forwardintensity/</guid>
+      <guid>https://jchanlauimf.github.io/BuDAWeb/publication/b_forwardintensity/</guid>
       <description></description>
     </item>
     
