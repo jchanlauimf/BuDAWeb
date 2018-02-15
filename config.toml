@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://jchanlauimf.github.io/BuDAWeb/"
 
 # Title of your site
 title = "Bottom-Up Default Analysis"
@@ -276,11 +276,6 @@ defaultContentLanguageInSubdir = false
   name = "Team"
   url = "#team"
   weight = 6
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 8
 
 [[menu.main]]
   name = "Contact"
